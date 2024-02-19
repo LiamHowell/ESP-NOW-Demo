@@ -1,8 +1,6 @@
 
 
-peer_dict = {
-    "Hub":b'\x7c\xdf\xa1\xf9\x0d\x24'
-    
-    
-    
+peers = {
+    "Hub": b'\x7c\xdf\xa1\xf9\x0d\x24'
+    "Soil1": b'\xdc\xda\x0c\x57\xb4\x0c'
     }
